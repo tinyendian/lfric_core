@@ -12,8 +12,6 @@ ifeq '$(MPIFORT_COMPILER)' 'GNU'
   FORTRAN_COMPILER = gfortran
 else ifeq '$(MPIFORT_COMPILER)' 'ifort'
   FORTRAN_COMPILER = ifort
-else ifeq '$(MPIFORT_COMPILER)' 'ifx'
-  FORTRAN_COMPILER = ifx
 else ifeq '$(MPIFORT_COMPILER)' 'Cray'
   FORTRAN_COMPILER = crayftn
 else ifeq '$(MPIFORT_COMPILER)' 'nvfortran'

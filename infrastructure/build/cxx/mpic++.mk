@@ -12,8 +12,6 @@ ifeq '$(MPIC_COMPILER)' 'g++'
   CXX_COMPILER = g++
 else ifeq '$(MPIC_COMPILER)' 'icc'
   CXX_COMPILER = icc
-else ifeq '$(MPIC_COMPILER)' 'icpx'
-  CXX_COMPILER = icpx
 else ifeq '$(MPIC_COMPILER)' 'Cray'
   CXX_COMPILER = craycc
 else
