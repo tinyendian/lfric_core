@@ -26,5 +26,5 @@
 | ericaneininger   | Erica Neininger        | Met Office  | 2026-03-02 |
 | mo-lucy-gordon   | Lucy Gordon            | Met Office  | 2026-03-18 |
 | shreybh1         | Shrey Bhardwaj         | Met Office  | 2026-03-26 |
-
+| tinyendian       | Wolfgang Hayek         | Earth Sciences New Zealand | 2026-05-04 |
 
